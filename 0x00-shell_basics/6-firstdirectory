@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mkdir /etc/my_first_directory
+mkdir /etc/my_first_directory

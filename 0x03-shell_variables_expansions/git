@@ -3,3 +3,6 @@ git add .
 read var
 git commit -m "task no $var"
 git push origin
+echo "DONE"
+clear
+

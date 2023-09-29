@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# print to_infinity_and_beyond between each iteration sleep 2
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# print the network with pid and name
+
+netstat -lp

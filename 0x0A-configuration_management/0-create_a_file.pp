@@ -1,6 +1,5 @@
 #create file
 file {'/tmp/school':
-  ensure  => present,
   mode    => '0746',
   group   => 'www-data',
   owner   => 'www-data',

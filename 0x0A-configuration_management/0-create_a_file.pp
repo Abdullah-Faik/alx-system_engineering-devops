@@ -1,5 +1,5 @@
 #create file
-file {'/tmp/school':
+file { '/tmp/school' :
   mode    => '0746',
   group   => 'www-data',
   owner   => 'www-data',
